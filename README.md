@@ -22,5 +22,9 @@ KR3: Achieve TTS less than 60s on a 2,500‑word input.
 KR4: Precision in Top 5 themes greater than 0.7 on pilot rubric (n=5 docs). 
 KR5: greater than 80% of pilot users rate actionability above 4/5.
 
+## Objective 3: Produce interview‑ready artifacts
+KR6: Publish Notion case study with PRD, demo video, and screenshots.
+KR7: 1‑page executive summary + downloadable Strategy Pack sample.
+
 #Deploy on Streamlit Cloud
 
